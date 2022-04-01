@@ -1,5 +1,5 @@
 ### Hi there ,I'm Samet. :blush:
-## junior Developer | JavaScript
+## JavaScript
 
 ### Tech I Use
 <br/>
